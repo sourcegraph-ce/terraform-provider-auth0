@@ -2,7 +2,7 @@ package debug
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sort"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"
