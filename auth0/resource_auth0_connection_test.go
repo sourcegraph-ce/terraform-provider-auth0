@@ -1,7 +1,7 @@
 package auth0
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"reflect"
 	"strings"
 	"testing"
