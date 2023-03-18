@@ -1,7 +1,7 @@
 package auth0
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"gopkg.in/auth0.v4"
 	"gopkg.in/auth0.v4/management"
